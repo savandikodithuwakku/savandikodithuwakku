@@ -1,150 +1,230 @@
-```html
 <h1 align="center">Hi 👋, I'm Savandi Kodithuwakku</h1>
 
 <h3 align="center">
-Third-Year Information Technology Undergraduate | Software Engineering | Backend Development | AI/ML
+Third-Year IT Undergraduate | Software Engineering | Backend Development | AI/ML
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=savandikodithuwakku&label=Profile%20Views&color=0e75b6&style=flat" alt="savandikodithuwakku" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=savandikodithuwakku&theme=flat&no-frame=true&margin-w=10" alt="savandikodithuwakku" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=savandikodithuwakku&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Third-year **BSc (Hons) Information Technology** undergraduate at the **University of Moratuwa**
-- 💻 Interested in **Software Engineering, Backend Development, Cloud Technologies, and AI/ML**
-- 🌱 Currently strengthening my skills in **Spring Boot, backend development, and AI/ML**
-- 🚀 Experienced in developing **full-stack applications, REST APIs, database-driven systems, and AI-integrated applications**
-- 🧠 Interested in building **maintainable and scalable software solutions**
-- ✍️ Technical Content Writer on **Medium**
-- 🏆 **Top 10 Finalist – OctWave 3.0 AI/ML Initiative**
-- 📫 Reach me at **savandikodithuwakku@gmail.com**
-- 🌐 Portfolio: **https://savandi.vercel.app**
+🎓 Third-year **BSc (Hons) Information Technology** undergraduate at the **University of Moratuwa**
 
----
+💻 Interested in **Software Engineering, Backend Development, Cloud Technologies, and AI/ML**
 
-### 🚀 Featured Projects
+🚀 Experienced in developing **full-stack applications, REST APIs, backend systems, and database-driven applications**
 
-#### 📄 DocFlow – Document Management System
-**React | TypeScript | Tailwind CSS | Django | PostgreSQL | Redis | Celery | Gemini | Ollama**
+🌱 Currently improving my skills in **Spring Boot, Backend Development, and AI/ML**
 
-Enterprise document workflow platform developed for **IXD Labs**, featuring document management, workflow execution, SLA monitoring, analytics, and AI-assisted document insights.
+🤖 Interested in integrating **AI/ML capabilities into real-world software applications**
 
----
+✍️ **Technical Content Writer** on Medium
 
-#### 🏨 HelloLobby – Hotel Management System
-**React | Node.js | Express.js | MongoDB | JWT | REST APIs**
+🏆 **Top 10 Finalist** – OctWave 3.0 AI/ML Initiative
 
-Full-stack hotel management platform for reservations, rooms, guest services, staff operations, payments, reporting, and AI-powered hotel assistance.
+📫 Reach me at **savandikodithuwakku@gmail.com**
+
+🌐 Portfolio: [savandi.vercel.app](https://savandi.vercel.app)
 
 ---
 
-#### 🏆 CompeteLK – University Competition Discovery Platform
-**React | Spring Boot | MySQL | REST APIs**
+## 🛠️ Languages and Technologies
 
-Platform for university students to discover and participate in competitions, featuring verified organizers, team formation, deadline reminders, historical competition data, and interest-based recommendations.
-
----
-
-#### 🎓 UniThaksalawa – Location-Aware Education Platform
-**React | Tailwind CSS | Node.js | Express.js | MongoDB**
-
-Platform that helps students discover nearby educational classes based on their location.
-
----
-
-#### 💻 Product Store – Full Stack E-Commerce Platform
-**React | Node.js | Express.js | MongoDB**
-
-Full-stack e-commerce application with product management and REST API integration.
-
----
-
-#### 🤖 Laptop Price Predictor
-**Python | Flask | Machine Learning | HTML | CSS | JavaScript | Bootstrap**
-
-Machine-learning web application that predicts laptop prices based on hardware specifications.
-
----
-
-### 🛠️ Languages and Technologies
-
-#### Programming Languages
+### 👩‍💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,php" />
 </p>
 
-#### Frontend Development
+### 🎨 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-#### Backend Development
+### ⚙️ Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,django,fastapi" />
 </p>
 
-#### Databases
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 </p>
 
-#### Cloud, DevOps & Tools
+**MS SQL Server**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma,ubuntu,vscode,idea" />
-</p>
-
-#### Data Science & Machine Learning
+### 🤖 Data Science & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`NumPy` • `Pandas` • `Scikit-learn` • `Google Colab` • `Kaggle`
+**NumPy • Pandas • Scikit-learn • Google Colab • Kaggle**
+
+### ☁️ Cloud & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel" />
+</p>
+
+**Render**
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ubuntu,vscode,idea" />
+</p>
+
+**Canva • Agile/Scrum**
 
 ---
 
-### 🏆 Achievements
+## 🚀 Featured Projects
 
-- 🥇 **Top 10 Finalist** – OctWave 3.0 AI/ML Initiative, IEEE IAS Student Branch (2026)
-- 🏅 **Finalist** – InspiHer Hackerina, SLTC Research University (2025)
-- 🤖 Participant – AgentX Bootcamp on AI Agents, University of Moratuwa × Zone24x7 (2025)
-- 💻 Participant – ReidXtreme 3.0 Hackathon, UCSC (2024)
-- 📬 **Postman Student Expert**
+### 📄 DocFlow – Document Management System
 
----
+**React • TypeScript • Tailwind CSS • Django • PostgreSQL • Redis • Celery • Gemini • Ollama**
 
-### 🌟 Leadership & Volunteering
+Enterprise document workflow platform developed for **IXD Labs** with document management, workflow execution, SLA monitoring, analytics, and AI-assisted document insights.
 
-- 🎨 **Director of Design and Publicity** – IEEE WIE Student Branch Affinity Group, University of Moratuwa
-- 🤝 **Co-Chair – Debractor 6.0**, Rotaract Club, University of Moratuwa
-- 🎓 Organizing Committee Member – 9th International Conference on IT Research
-- 💼 Organizing Committee Member – FIT Future Careers
-- 🌐 Web & Technology Pillar Member – MoraSpirit
-- 📚 Volunteer Teacher & Motivational Speaker – Sasnaka Sansada
+My contribution includes a configurable working-hours system, business-hours-aware SLA engine, KPI and workflow analytics dashboards, and an AI chatbot with RAG-based document retrieval and natural-language-to-SQL querying.
 
 ---
 
-### 📝 Blog Posts
+### 🏨 HelloLobby – Hotel Management System
 
-I write technical articles on Medium.
+**React • Node.js • Express.js • MongoDB • JWT • REST APIs**
+
+Developing a full-stack hotel management platform for reservations, room management, guest services, staff operations, payments, reporting, and administrative workflows.
+
+The platform also includes AI-powered capabilities such as an intelligent hotel assistant, automated insights, and recommendation features.
+
+---
+
+### 🏆 CompeteLK – University Competition Discovery Platform
+
+**React • Spring Boot • MySQL • REST APIs**
+
+Developing a centralized platform that helps university students discover, search, and participate in competitions across universities.
+
+Features include:
+
+- Verified organizer publishing
+- Organizer dashboards
+- Team formation
+- Competition search
+- Deadline reminders
+- Interest-based recommendations
+- Historical competition data
+
+---
+
+### 🎓 UniThaksalawa – Location-Aware Education Platform
+
+**React • Tailwind CSS • Node.js • Express.js • MongoDB**
+
+Developed a platform that helps students discover nearby educational classes based on their location.
+
+My contribution includes the **My Classes** and **My Enrollments** modules, class creation, backend data fetching, and enrollment displays.
+
+---
+
+### 🛒 Product Store – Full Stack E-Commerce Platform
+
+**React • Node.js • Express.js • MongoDB**
+
+Developed a full-stack e-commerce application with product management functionality.
+
+Implemented the React frontend and integrated it with backend APIs for product and store operations.
+
+---
+
+### 🏛️ Heritage Information System
+
+**Next.js • React • FastAPI**
+
+Developed a full-stack platform for managing and publishing architectural and cultural heritage information.
+
+My contribution focused on implementing **login and signup functionality end-to-end**, including authentication interfaces and backend API integration.
+
+---
+
+### 🤖 Laptop Price Predictor
+
+**Python • Flask • Machine Learning • HTML • CSS • JavaScript • Bootstrap**
+
+Developed a machine-learning web application that predicts laptop prices based on hardware specifications.
+
+Integrated a trained machine-learning model with a web interface to generate predictions from user inputs.
+
+---
+
+### 🦾 MicroMinds – Arduino-Based CNC Foam Cutting Interface
+
+**React • Tailwind CSS • Arduino • ESP32 • Firebase**
+
+Developed an Arduino-based CNC foam-cutting system with a web interface for designing and managing cutting tasks.
+
+My contribution includes the **Shape Input, Review, History, and Library** modules and hardware integration involving GRBL, ESP32, and a TFT display.
+
+---
+
+## 💼 Experience
+
+- **Data Annotator** – ThakralOne | 2025 – 2026
+- **Technical Content Writer** – Medium | 2024 – Present
+- **Postman Student Expert**
+
+---
+
+## 🏆 Achievements & Participation
+
+🥇 **Top 10 Finalist** – OctWave 3.0 AI/ML Initiative, IEEE IAS Student Branch | 2026
+
+🏅 **Finalist** – InspiHer Hackerina, SLTC Research University | 2025
+
+🤖 **Participant** – AgentX Bootcamp on AI Agents, University of Moratuwa × Zone24x7 | 2025
+
+💻 **Participant** – ReidXtreme 3.0 Hackathon, UCSC | 2024
+
+---
+
+## 🌟 Leadership & Volunteering
+
+🎨 **Director of Design and Publicity**  
+IEEE WIE Student Branch Affinity Group, University of Moratuwa | 2026 – 2027
+
+🤝 **Co-Chair – Debractor 6.0**  
+Rotaract Club, University of Moratuwa | 2026
+
+🎓 **Organizing Committee Member**  
+9th International Conference on IT Research | 2025
+
+💼 **Organizing Committee Member**  
+FIT Future Careers | 2025
+
+🌐 **Web & Technology Pillar Member**  
+MoraSpirit | 2025 – 2026
+
+📚 **Volunteer Teacher & Motivational Speaker**  
+Sasnaka Sansada | 2023 – 2025
+
+---
+
+## ✍️ Technical Writing
+
+I regularly write technical articles on **Medium**.
 
 <p align="left">
   <a href="https://medium.com/@savandikodithuwakku">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
@@ -153,43 +233,43 @@ I write technical articles on Medium.
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/savandi-kodithuwakku" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://www.linkedin.com/in/savandi-kodithuwakku">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/savandikodithuwakku" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/savandikodithuwakku">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://medium.com/@savandikodithuwakku" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" />
+<a href="https://medium.com/@savandikodithuwakku">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
+<a href="mailto:savandikodithuwakku@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savandikodithuwakku&show_icons=true&locale=en&theme=default" alt="Savandi's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=savandikodithuwakku&show_icons=true&hide_border=true" alt="Savandi's GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savandikodithuwakku&layout=compact&hide_border=true" alt="Savandi's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=savandikodithuwakku&show_icons=true&locale=en&layout=compact" alt="Savandi's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=savandikodithuwakku" alt="Savandi's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=savandikodithuwakku&hide_border=true" alt="Savandi's GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  💡 <i>Always learning, building, and exploring new technologies.</i>
+  <i>💡 Always learning, building, and exploring new technologies.</i>
 </p>
-```
