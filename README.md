@@ -103,9 +103,3 @@ Third-Year IT Undergraduate | Software Engineering | Backend Development | AI/ML
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=savandikodithuwakku&hide_border=true" alt="Savandi's GitHub Streak" />
 </p>
-
----
-
-<p align="center">
-  <b>💡 Always learning, building, and exploring new technologies.</b>
-</p>
