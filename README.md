@@ -90,23 +90,6 @@ Third-Year IT Undergraduate | Software Engineering | Backend Development | AI/ML
 
 ---
 
-## 🏆 Highlights
-
-- 🥇 **Top 10 Finalist** – OctWave 3.0 AI/ML Initiative, IEEE IAS Student Branch | 2026
-- 🏅 **Finalist** – InspiHer Hackerina, SLTC Research University | 2025
-- 📬 **Postman Student Expert**
-
----
-
-## ✍️ Technical Writing
-
-I regularly write technical articles on **Medium**.
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
